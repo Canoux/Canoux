@@ -14,8 +14,8 @@
 
 - 💻 &nbsp; Java | Python  
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Bootstrap
-- 🛢 &nbsp; NodeJS | PHP | MySQL | Xampp
-- 🔧 &nbsp; Visual Studio code | IntelliJ | Git
+- 🛢 &nbsp; Node.JS | Socket.io | Express.JS | PHP | MySQL
+- 🔧 &nbsp; Visual Studio code | PhpStorm | IntelliJ | Git
 - 🖥 &nbsp; Adobe Xd
 
 <br>
