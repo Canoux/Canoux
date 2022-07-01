@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm souvik. <img src="https://raw.githubusercontent.com/Canestin/myResources/270adb3819b3cb9425af71e762232d78e0a23f42/img/canou.gif?token=AX674BG7OZQ6X3MOJ4DKD33CXZC4A" width="500"></h2>
+<h2> Hey there! I'm souvik. <img src="https://raw.githubusercontent.com/Canestin/myResources/270adb3819b3cb9425af71e762232d78e0a23f42/img/canou.gif?token=AX674BG7OZQ6X3MOJ4DKD33CXZC4A" width="400"></h2>
 <img align="right" alt="GIF" src="https://github.com/Canestin/myResources/blob/main/img/dev-person.png?raw=true" width="25"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
