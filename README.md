@@ -1,6 +1,6 @@
 
 <h1> Hey there! I'm souvik. <img src="https://raw.githubusercontent.com/Canestin/myResources/270adb3819b3cb9425af71e762232d78e0a23f42/img/canou.gif?token=AX674BG7OZQ6X3MOJ4DKD33CXZC4A" width="300"></h3>
-<img align="right" alt="GIF" src="https://drive.google.com/file/d/1E0Pq3Obl5PT5sFEoklMtH5BKTszBHYJ2/view" width="25"/>
+<img align="right" alt="GIF" src="https://github.com/Canestin/myResources/blob/main/img/pc.gif?raw=true" width="25"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
