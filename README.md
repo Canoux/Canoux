@@ -30,7 +30,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/CanestinN" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Canestin/myResources/2b3677e8e89978f2d43fd2b42b1d7598f948462d/img/siteweb.png" width="70" /></a>  
+&nbsp; <a href="https://twitter.com/CanestinN" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Canestin/myResources/2b3677e8e89978f2d43fd2b42b1d7598f948462d/img/siteweb.png" width="60" /></a>  
 &nbsp; <a href="https://twitter.com/CanestinN" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Canestin/myResources/2b3677e8e89978f2d43fd2b42b1d7598f948462d/img/linkedin.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Canestin/myResources/2b3677e8e89978f2d43fd2b42b1d7598f948462d/img/gmail.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Canestin/myResources/2b3677e8e89978f2d43fd2b42b1d7598f948462d/img/fbk.png" width="50" /></a>
