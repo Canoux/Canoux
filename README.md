@@ -32,7 +32,7 @@
 &nbsp; <a href="mailto:canestinng@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Canestin/myResources/2b3677e8e89978f2d43fd2b42b1d7598f948462d/img/gmail.png" width="50" /></a>  
 &nbsp; <a href="https://www.facebook.com/profile.php?id=100070757420059" target="_blank"><img src="https://raw.githubusercontent.com/Canestin/myResources/2b3677e8e89978f2d43fd2b42b1d7598f948462d/img/fbk.png" width="50" /></a>
 &nbsp; <a href="https://www.instagram.com/canestin_off/" target="_blank"><img src="https://raw.githubusercontent.com/Canestin/myResources/2b3677e8e89978f2d43fd2b42b1d7598f948462d/img/Instagram.png"  width="50" /></a>
-&nbsp; <a href="https://twitter.com/CanestinN" target="_blank"><img src="https://raw.githubusercontent.com/Canestin/myResources/65f6ad4afc650d92bd7b4f83fd0c76e56258b3de/img/twitter.png"  width="60" /></a>
+&nbsp; <a href="https://twitter.com/CanestinN" target="_blank"><img src="https://raw.githubusercontent.com/Canestin/myResources/65f6ad4afc650d92bd7b4f83fd0c76e56258b3de/img/twitter.png"  width="65" /></a>
 </p>
 
 ⭐️ From [Canestin](https://github.com/Canestin)
